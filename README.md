@@ -35,8 +35,8 @@ Created by:
 ---
 
 > Endika Bernaola
-> * contacto@BilboHouse.xyz
-> * http://bilbohouse.xyz
+> * hola@bhweb.eu
+> * https://bhdiseñoweb.com
 
 
 
